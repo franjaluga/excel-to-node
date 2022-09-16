@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "gridjs": "^5.1.0",
     "read-excel-file": "^5.5.0"
   }
 }
